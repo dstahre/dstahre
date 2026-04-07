@@ -3,7 +3,7 @@ Computer Science student working towards a Bachelors of Science at University of
 <p>Currently hold IBM Skillsbuild Cybersecurity Fundamentals certification, and working towards Google Cybersecurity Professional Certificate.
 <p>Currently working in IT as a Plant Systems Technician for a major chicken processing company.
 
--
+
 
 <!---
 dstahre/dstahre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
