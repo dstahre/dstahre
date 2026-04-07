@@ -1,7 +1,7 @@
 Computer Science student working towards a Bachelors of Science at University of the People.  Expected graduation date is January 2027.
-Primary interest is Cybersecurity, specifically cryptography, digital forensics and penetrative testing.
-Currently hold IBM Skillsbuild Cybersecurity Fundamentals certification, and working towards Google Cybersecurity Professional Certificate.
-Currently working in IT as a Plant Systems Technician for a major chicken processing company.
+<p>Primary interest is Cybersecurity, specifically cryptography, digital forensics and penetrative testing.
+<p>Currently hold IBM Skillsbuild Cybersecurity Fundamentals certification, and working towards Google Cybersecurity Professional Certificate.
+<p>Currently working in IT as a Plant Systems Technician for a major chicken processing company.
 
 -
 
